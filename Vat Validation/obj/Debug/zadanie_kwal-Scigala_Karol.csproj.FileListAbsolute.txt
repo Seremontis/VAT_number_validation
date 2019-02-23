@@ -1,0 +1,15 @@
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\zadanie_kwal-Scigala_Karol.csprojAssemblyReference.cache
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\zadanie_kwal_Scigala_Karol.Properties.Resources.resources
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\zadanie_kwal-Scigala_Karol.csproj.GenerateResource.cache
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\zadanie_kwal-Scigala_Karol.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\zadanie_kwal-Scigala_Karol.exe.config
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\zadanie_kwal-Scigala_Karol.exe
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\zadanie_kwal-Scigala_Karol.pdb
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\zadanie_kwal-Scigala_Karol.exe
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\zadanie_kwal-Scigala_Karol.pdb
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\zadanie_kwal_Scigala_Karol.WinCheck.resources
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\nunit.framework.dll
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\nunit.framework.pdb
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\nunit.framework.xml
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\zadanie_kwal-Scigala_Karol.csproj.CopyComplete
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\VAT_Validation.Properties.Resources.resources

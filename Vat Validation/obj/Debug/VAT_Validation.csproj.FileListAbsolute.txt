@@ -1,0 +1,28 @@
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\VAT_Validation.csprojAssemblyReference.cache
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\VAT_Validation.WinCheck.resources
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\VAT_Validation.Properties.Resources.resources
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\VAT_Validation.csproj.GenerateResource.cache
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\VAT_Validation.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\VAT_Validation.exe.config
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\VAT_Validation.exe
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\VAT_Validation.pdb
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\nunit.framework.dll
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\nunit.framework.pdb
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\bin\Debug\nunit.framework.xml
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\VAT_Validation.csproj.CopyComplete
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\VAT_Validation.exe
+C:\Users\komp2\Documents\GitHub\zadanie_kwal-Scigala_Karol\zadanie_kwal-Scigala_Karol\obj\Debug\VAT_Validation.pdb
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\bin\Debug\VAT_Validation.exe.config
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\bin\Debug\VAT_Validation.exe
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\bin\Debug\VAT_Validation.pdb
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\bin\Debug\nunit.framework.dll
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\bin\Debug\nunit.framework.pdb
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\bin\Debug\nunit.framework.xml
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\obj\Debug\VAT_Validation.csprojAssemblyReference.cache
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\obj\Debug\VAT_Validation.WinCheck.resources
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\obj\Debug\VAT_Validation.Properties.Resources.resources
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\obj\Debug\VAT_Validation.csproj.GenerateResource.cache
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\obj\Debug\VAT_Validation.csproj.CoreCompileInputs.cache
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\obj\Debug\VAT_Validation.csproj.CopyComplete
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\obj\Debug\VAT_Validation.exe
+C:\Users\komp2\Documents\GitHub\VAT Validation\Vat Validation\obj\Debug\VAT_Validation.pdb
