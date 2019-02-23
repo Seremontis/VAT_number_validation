@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAT_Validation", "zadanie_kwal-Scigala_Karol\VAT_Validation.csproj", "{2F401589-EE11-4E55-9871-1DED7B1B496F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAT_Validation", "Vat Validation\VAT_Validation.csproj", "{2F401589-EE11-4E55-9871-1DED7B1B496F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTest", "NUnitTest\NUnitTest.csproj", "{44A2D252-7A00-4577-BA0B-5A02591D8BA4}"
 EndProject
